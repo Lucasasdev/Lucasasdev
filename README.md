@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, How are you, Im' Lucas Alves, welcome to my profile 👋
 
 <!--
 **Lucasasdev/Lucasasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
