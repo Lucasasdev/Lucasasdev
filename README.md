@@ -3,7 +3,6 @@
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-alves-789808272/)
-[![Email](https://img.shields.io/badge/email-fff?style=for-the-badge&logo=Email&logoColor=0E76A8)](Lucasasdev@gmail.com)
 
 ## Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
