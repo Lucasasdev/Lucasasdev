@@ -1,5 +1,5 @@
 ## Lucas Alves
-  <p>Muito prazer! Atualmente estou desenvolvendo projetos pessoais com as tecnologias que tenho mais conhecimento <strong>JavaScrip, Nodejs, express, docker, linux</strong></p>
+  <p>Muito prazer! Atualmente estou desenvolvendo projetos pessoais com as tecnologias que tenho mais conhecimento <strong>JavaScrip, Nodejs, express, docker, linux, Git/GitHub, html, css</strong></p>
 
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-alves-789808272/)
