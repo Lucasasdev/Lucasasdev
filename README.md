@@ -1,5 +1,5 @@
 ## What I am doing currently?
-  <p> 👋 Muito prazer Lucas aqui! Atualmente estou estudando, desenvolvendo e aperfeiçoando projetos pessoais no backend, mais especificamente integração com <strong>API's</strong> e <strong>banco de dados SQL e NoSQL</strong> com as tecnologias que tenho maior conhecimento nesse momento como <strong>Python, JavaScrip, Nodejs, Express, MongoDB, MySQL, Docker, Linux, Git/GitHub</strong> e em muitos casos para integrar o <strong>Backend</strong> com o <strong>Frontend</strong> também uso as tecnologias <strong>HTML5 e CSS</strong></p>
+  <p> Olá, 👋 Muito prazer! Atualmente estou estudando e desenvolvendo projetos pessoais mais focados no Backend, como <strong>API's, sites</strong>. Com as tecnologias que tenho maior conhecimento <strong>JavaScrip, Nodejs, Express, MySQL server, Linux, Git/GitHub </strong> no Frontend utilizo bastante <strong>HTML</strong>, <strong>CSS3</strong> e <strong>JavaScrip</strong>.
 
 ## Find me also on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-alves-789808272/)
