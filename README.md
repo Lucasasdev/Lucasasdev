@@ -1,5 +1,5 @@
 ## What I am doing currently?
-  <p>Atualmente estou estudando e desenvolvendo projetos pessoais mais focados no Backend<p>
+Hello, and welcome to my GitHub. My name is Lucas Alves. I've been improving my programing skills on the backend side to change the world for better.
     
 ## Find me also on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-alves-789808272/)
