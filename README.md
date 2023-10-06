@@ -8,5 +8,8 @@ I've been improving my programing skills on the backend side.
 ## Hard skills
 **[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,mysql)](https://skillicons.dev)**
 
+## Improving...
+**[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,typescript,)](https://skillicons.dev)**
+
 ## GitHub stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasasdev&layout=donut) ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasasdev)
