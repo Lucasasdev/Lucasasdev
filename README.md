@@ -1,5 +1,5 @@
 ## Hello, and welcome to my GitHub
-I've been improving my programing skills on the backend side.
+My name is Lucas Alves. I'm improving my programing skills to become a Fullstack developer.
 
     
 ## Find me also on
