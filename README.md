@@ -9,7 +9,7 @@ My name is Lucas Alves. I'm improving my programing skills to become a Fullstack
 **[![My Skills](https://skillicons.dev/icons?i=js,nodejs,git,github,mysql)](https://skillicons.dev)**
 
 #### Improving...
-**[![My Skills](https://skillicons.dev/icons?i=typescript,mongodb,docker,aws)](https://skillicons.dev)**
+**[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,typescript,docker,aws)](https://skillicons.dev)**
 
 #### GitHub stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasasdev&layout=donut) ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasasdev)
