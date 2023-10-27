@@ -8,7 +8,7 @@ My name is Lucas Alves. I'm improving my programing skills to become a Fullstack
 #### Hard skills
 **[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,mysql,html,css,git,github)](https://skillicons.dev)**
 
-#### Improving...
+#### learning
 **[![My Skills](https://skillicons.dev/icons?i=react,postgres,typescript,docker,aws)](https://skillicons.dev)**
 
 #### GitHub stats
