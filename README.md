@@ -1,5 +1,5 @@
-## Hello, and welcome to my GitHub!
-Currently I'm improving my programing skills to become a Fullstack developer.
+## Hey, and welcome to my GitHub!
+Currently, I'm improving my programming skills on the backend side.
 
     
 #### Find me also on
