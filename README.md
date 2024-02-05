@@ -1,5 +1,5 @@
 # Hey, and welcome to my GitHub!
-A enthusiastic of technology, searching him first job in that branch.
+A enthusiastic of technology.
 
 #### Find me also on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-alves-789808272/)
