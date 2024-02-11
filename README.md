@@ -8,7 +8,7 @@ A enthusiastic of technology.
 **[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,mongodb,mysql,html,css,react,git,github)](https://skillicons.dev)**
 
 #### Learning it...
-**[![My Skills](https://skillicons.dev/icons?i=,postgres,docker,aws)](https://skillicons.dev)**
+**[![My Skills](https://skillicons.dev/icons?i=,postgres,docker,aws,azure,redis)](https://skillicons.dev)**
 
 #### GitHub stats
 
